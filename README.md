@@ -45,6 +45,7 @@ Continue guessing letters until you either guess the word correctly or the hangm
 <ins>**Dependencies**</ins>
 
 This Hangman game has no external dependencies and can be compiled and run using any standard C++ compiler.
-Credits
+
+**Credits**
 This Hangman game was created by Hashim. You can contact me on : awanhashim800@gmail.com in case of any queries.
 Feel free to contribute to the project by submitting pull requests or reporting issues.
