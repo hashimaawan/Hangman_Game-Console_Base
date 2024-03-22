@@ -1,6 +1,6 @@
 # Hangman_Game-Console_Base
 
-*Welcome to the Console-based Hangman Game! This is a simple implementation of the classic Hangman game in C++ that runs in the console.*
+*Welcome to the Console-based Hangman Game! This is a simple implementation of the classic Hangman game in C++ that runs on the console.*
 
 
 <ins>**Overview**</ins>
